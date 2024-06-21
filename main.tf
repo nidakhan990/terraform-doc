@@ -1,6 +1,6 @@
 
 #############################[ SSH SECURITY GROUP]################################################
-module "aws_security_group_ssh" {
+module "aws_security_group_SSH" {
 
   source = "git@github.com:MyGurukulam-P8/Infrastructure_as_a_Code.git//Dev_Infrastructure/Modules/child_module/Openvpn/ssh_sg?ref=Dev"
 
