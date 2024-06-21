@@ -1,7 +1,7 @@
 name: Generate Terraform Docs
 #on:
 #  push:
-#    branches: [ "main" ]
+#    branches: [ "master" ]
 
 on:
   workflow_call:
